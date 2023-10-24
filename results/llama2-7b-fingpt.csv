@@ -1,0 +1,7 @@
+,input,output,instruction,context,target,out_text,new_out
+0,$HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$
+Answer: ",0,</s></s></s></s></s></s></s></s></s></s></s></s></s></s><unk>,1
+1,@gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?
+Answer: ",2, negative</s>,2
