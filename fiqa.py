@@ -1,4 +1,4 @@
-from sklearn.metrics import accuracy_score,f1_score
+from sklearn.metrics import accuracy_score, f1_score
 from datasets import load_dataset
 from tqdm import tqdm
 import torch
@@ -12,6 +12,7 @@ def format_example(example: dict) -> dict:
     target = example["output"]
     return {"context": context, "target": target}
 
+
 def change_target(x):
     if 'positive' in x or 'Positive' in x:
         return 0
@@ -21,50 +22,54 @@ def change_target(x):
         return 1
 
 
-def test_fiqa(model, tokenizer, batch_size = 8):
+def test_fiqa(model, tokenizer, batch_size=8):
     dataset = load_dataset('pauri32/fiqa-2018')
     dataset = dataset["test"]
     dataset = dataset.to_pandas()
 
     # only to validate function
-    #dataset = dataset.head(2)
+    dataset = dataset.head(2)
 
     dataset["output"] = dataset['label']
-    dataset["instruction"] = "What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}."
+    dataset[
+        "instruction"] = "What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}."
 
     dataset = dataset[['sentence', 'output', 'instruction']]
     dataset.columns = ['input', 'output', 'instruction']
-    dataset[['context', 'target']] = dataset.apply(format_example, axis = 1, result_type="expand")
+    dataset[['context', 'target']] = dataset.apply(
+        format_example, axis=1, result_type="expand")
 
     # print example
     print(f"\n\nPrompt example:\n{dataset['context'][1]}\n\n")
 
     context = dataset['context'].tolist()
     total_steps = dataset.shape[0]//batch_size + 1
-    print(f"Total len: {len(context)}. Batchsize: {batch_size}. Total steps: {total_steps}")
+    print(
+        f"Total len: {len(context)}. Batchsize: {batch_size}. Total steps: {total_steps}")
 
-    out_text_list = []
+    out_text = []
 
     for i in tqdm(range(total_steps)):
-        tmp_context = context[i* batch_size:(i+1)* batch_size]
+        tmp_context = context[i * batch_size:(i+1) * batch_size]
         tokenizer.pad_token = tokenizer.eos_token
         tokens = tokenizer(tmp_context, return_tensors='pt', padding=True)
         for k in tokens.keys():
             tokens[k] = tokens[k].cuda()
-        
+
         res = model.generate(**tokens)
         res_sentences = tokenizer.batch_decode(res)
+        print(f"Context: {res_sentences}")
         out_text = [o.split("Answer: ")[1] for o in res_sentences]
-        out_text_list += out_text
         torch.cuda.empty_cache()
 
-    dataset["out_text"] = out_text_list
+    dataset["out_text"] = out_text
     dataset["new_out"] = dataset["out_text"].apply(change_target)
 
     acc = accuracy_score(dataset["target"], dataset["new_out"])
-    f1_macro = f1_score(dataset["target"], dataset["new_out"], average = "macro")
-    f1_micro = f1_score(dataset["target"], dataset["new_out"], average = "micro")
-    f1_weighted = f1_score(dataset["target"], dataset["new_out"], average = "weighted")
+    f1_macro = f1_score(dataset["target"], dataset["new_out"], average="macro")
+    f1_micro = f1_score(dataset["target"], dataset["new_out"], average="micro")
+    f1_weighted = f1_score(
+        dataset["target"], dataset["new_out"], average="weighted")
 
     print(f"Acc: {acc}. F1 macro: {f1_macro}. F1 micro: {f1_micro}. F1 weighted (BloombergGPT): {f1_weighted}. ")
 
