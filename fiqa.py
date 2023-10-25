@@ -27,7 +27,7 @@ def test_fiqa(model, tokenizer, batch_size = 8):
     dataset = dataset.to_pandas()
 
     # only to validate function
-    dataset = dataset.head(2)
+    #dataset = dataset.head(2)
 
     dataset["output"] = dataset['label']
     dataset["instruction"] = "What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}."
