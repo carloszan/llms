@@ -28,7 +28,7 @@ def test_fiqa(model, tokenizer, batch_size=8):
     dataset = dataset.to_pandas()
 
     # only to validate function
-    dataset = dataset.head(2)
+    # dataset = dataset.head(2)
 
     dataset["output"] = dataset['label']
     dataset[
@@ -51,17 +51,21 @@ def test_fiqa(model, tokenizer, batch_size=8):
 
     for i in tqdm(range(total_steps)):
         tmp_context = context[i * batch_size:(i+1) * batch_size]
+
         tokenizer.pad_token = tokenizer.eos_token
-        tokens = tokenizer(tmp_context, return_tensors='pt', padding=True)
+        tokenizer.padding_side = "left"
+
+        tokens = tokenizer(tmp_context, return_tensors='pt',
+                           padding=True, max_length=512)
         for k in tokens.keys():
             tokens[k] = tokens[k].cuda()
 
-        res = model.generate(**tokens)
+        res = model.generate(**tokens, max_length=512)
         res_sentences = tokenizer.batch_decode(res)
-        print(f"Context: {res_sentences}")
-        out_text = [o.split("Answer: ")[1] for o in res_sentences]
+        out_text.append([o.split("Answer: ")[1] for o in res_sentences])
         torch.cuda.empty_cache()
 
+    out_text = [item for sublist in out_text for item in sublist]
     dataset["out_text"] = out_text
     dataset["new_out"] = dataset["out_text"].apply(change_target)
 
