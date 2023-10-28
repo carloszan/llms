@@ -1,0 +1,451 @@
+,input,output,instruction,context,target,out_text,new_out
+0,$HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$
+Answer: ",0,{positive}<|endoftext|>,0
+1,@gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?
+Answer: ",2,{positive}<|endoftext|>,0
+2,Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri
+Answer: ",0,{positive}<|endoftext|>,0
+3,"Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/F55dx4aegI",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Tesla Motors recalls 2,700 Model X SUVs $TSLA https://t.co/F55dx4aegI
+Answer: ",2,{negative}<|endoftext|>,2
+4,CRH's concrete bid for Holcim Lafarge assets,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: CRH's concrete bid for Holcim Lafarge assets
+Answer: ",0,{negative}<|endoftext|>,2
+5,Doubts grow over GlaxoSmithKline's $6 bln capital return plan,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Doubts grow over GlaxoSmithKline's $6 bln capital return plan
+Answer: ",2,{negative}<|endoftext|>,2
+6,"$XLF http://stks.co/1KJ9 Bounced off target buy area, bought $skf as a hedge. watch 50ma's slope",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $XLF http://stks.co/1KJ9 Bounced off target buy area, bought $skf as a hedge. watch 50ma's slope
+Answer: ",2,{positive}<|endoftext|>,0
+7,"$TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TSLA looking good..i'd love to see a basing action here, letting the RSI take a breather. http://stks.co/g1T7c
+Answer: ",0,{positive}<|endoftext|>,0
+8,France raises concerns over proposed LSE-Deutsche Boerse deal,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: France raises concerns over proposed LSE-Deutsche Boerse deal
+Answer: ",2,{negative}<|endoftext|>,2
+9,"Qualcomm: 10% Dividend Increase Rewards Patient Investors, The Future Looks Bright https://t.co/TJjVpqhHqD $QCOM",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Qualcomm: 10% Dividend Increase Rewards Patient Investors, The Future Looks Bright https://t.co/TJjVpqhHqD $QCOM
+Answer: ",0,{positive}<|endoftext|>,0
+10,Sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses
+Answer: ",1,{positive}<|endoftext|>,0
+11,@NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings
+Answer: ",2,{positive}<|endoftext|>,0
+12,RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: RT @tomhend777 $MU needs to hold here -Broken for now. Needs big flush. Still not technically oversold so now big bounce yet
+Answer: ",1,{positive}<|endoftext|>,0
+13,CompaniesActelion shares hit record on Shire takeover talk,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: CompaniesActelion shares hit record on Shire takeover talk
+Answer: ",0,{positive}<|endoftext|>,0
+14,Valeant Names Interim Leader as CEO Remains Hospitalized,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Valeant Names Interim Leader as CEO Remains Hospitalized
+Answer: ",1,{negative}<|endoftext|>,2
+15,BRIEF-Legal & General's retirement business books 4 billion stg H1 sales,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: BRIEF-Legal & General's retirement business books 4 billion stg H1 sales
+Answer: ",0,{positive}<|endoftext|>,0
+16,Why $TWTR is doomed in 1 chart $FB $GOOG  https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Why $TWTR is doomed in 1 chart $FB $GOOG  https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP
+Answer: ",1,{positive}<|endoftext|>,0
+17,Companies Thetrainline.com announces arrival of London IPO,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Companies Thetrainline.com announces arrival of London IPO
+Answer: ",0,{positive}<|endoftext|>,0
+18,AB InBev to Sell SABMiller Stake in China's Snow Beer,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: AB InBev to Sell SABMiller Stake in China's Snow Beer
+Answer: ",1,{positive}<|endoftext|>,0
+19,UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers
+Answer: ",0,{positive}<|endoftext|>,0
+20,AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US
+Answer: ",0,{positive}<|endoftext|>,0
+21,Whitbread boss Andy Harrison defends sales fall as 'just a blip',1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Whitbread boss Andy Harrison defends sales fall as 'just a blip'
+Answer: ",1,{positive}<|endoftext|>,0
+22,@BULLYA @pollux654321 My 50 $KORS 80 Calls are going to b a Blessing for my Daughters tuition!,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @BULLYA @pollux654321 My 50 $KORS 80 Calls are going to b a Blessing for my Daughters tuition!
+Answer: ",0,{positive}<|endoftext|>,0
+23,MillerCoors Board Names Gavin Hattersley Interim CEO,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: MillerCoors Board Names Gavin Hattersley Interim CEO
+Answer: ",1,{positive}<|endoftext|>,0
+24,$FB Nice buyable intraday dip right here,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $FB Nice buyable intraday dip right here
+Answer: ",0,{positive}<|endoftext|>,0
+25,UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: UPDATE 3-Auto Trader shares leap in UK's biggest private equity-backed listing
+Answer: ",0,{positive}<|endoftext|>,0
+26,$DISH weakness continues again. 49.43 area resistance after last week,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $DISH weakness continues again. 49.43 area resistance after last week
+Answer: ",2,{negative}<|endoftext|>,2
+27,GlaxoSmithKline starts hunt for successor to CEO Witty,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: GlaxoSmithKline starts hunt for successor to CEO Witty
+Answer: ",1,{positive}<|endoftext|>,0
+28,"Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Tesla to recall 2,700 Model X SUVs over seat issue https://t.co/OdPraN59Xq $TSLA https://t.co/xvn4blIwpy https://t.co/ThfvWTnRPs
+Answer: ",2,{negative}<|endoftext|>,2
+29,@saltwaternurse $INO can test 10 again in next few days. time to take some profits here. or hedge with puts.,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @saltwaternurse $INO can test 10 again in next few days. time to take some profits here. or hedge with puts.
+Answer: ",2,{positive}<|endoftext|>,0
+30,Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over ...,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over ...
+Answer: ",1,{positive}<|endoftext|>,0
+31,$HZNP havent seen vol like this since the runup. lets see one more dip to 2.0x,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $HZNP havent seen vol like this since the runup. lets see one more dip to 2.0x
+Answer: ",2,{positive}<|endoftext|>,0
+32,$BBRY Ready for Take OFF!,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $BBRY Ready for Take OFF!
+Answer: ",0,{positive}<|endoftext|>,0
+33,$ACAD under $2 today?,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $ACAD under $2 today?
+Answer: ",2,$2<|endoftext|><|endoftext|>,1
+34,"$BRK.B $SPY  All time high tomorrow? 150k on the A shares, Dec 13, 2007.",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $BRK.B $SPY  All time high tomorrow? 150k on the A shares, Dec 13, 2007.
+Answer: ",0,{positive}<|endoftext|>,0
+35,News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank
+Answer: ",0,{positive}<|endoftext|>,0
+36,Keith Skeoch to step up as David Nish quits as chief executive of Standard Life,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Keith Skeoch to step up as David Nish quits as chief executive of Standard Life
+Answer: ",1,{positive}<|endoftext|>,0
+37,"Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Kraft, Cadbury's and Britvic in Total Recall: how pulling a product affects profit
+Answer: ",2,{negative}<|endoftext|>,2
+38,"$QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $QCOM The indicator RSI is over 50, which stands at 56.1, an upward movement is expected. https://t.co/yfa9jcUsQa
+Answer: ",0,{positive}<|endoftext|>,0
+39,$UBNT still having some trouble at the resistance line. Should resolve soon.@cheri1 @strattonite   http://stks.co/c0sU4,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $UBNT still having some trouble at the resistance line. Should resolve soon.@cheri1 @strattonite   http://stks.co/c0sU4
+Answer: ",1,{positive}<|endoftext|>,0
+40,$GEVO PLUNGING!  Back to $3.55.,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $GEVO PLUNGING!  Back to $3.55.
+Answer: ",2,{negative}<|endoftext|>,2
+41,AB InBev to sell more SAB assets as seeks EU deal approval,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: AB InBev to sell more SAB assets as seeks EU deal approval
+Answer: ",1,{negative}<|endoftext|>,2
+42,"HSBC shakes up board with two new business chiefs, three departures",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: HSBC shakes up board with two new business chiefs, three departures
+Answer: ",1,{positive}<|endoftext|>,0
+43,"Saudi Aramco, Shell plan to break up Motiva, divide up assets",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Saudi Aramco, Shell plan to break up Motiva, divide up assets
+Answer: ",2,{positive}<|endoftext|>,0
+44,$RAD All my charts are flashing oversold.,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $RAD All my charts are flashing oversold.
+Answer: ",1,{negative}<|endoftext|>,2
+45,NetApp downgraded by Macquarie to underperform. $22.00 PT. https://t.co/XCNgws0t4q $NTAP #NTAP via @RatingsNetwork,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: NetApp downgraded by Macquarie to underperform. $22.00 PT. https://t.co/XCNgws0t4q $NTAP #NTAP via @RatingsNetwork
+Answer: ",2,{negative}<|endoftext|>,2
+46,Multi Top on $MCD chart finally leads to a fall in price.  Stability is questioned in the stock but coming weeks will tell.,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Multi Top on $MCD chart finally leads to a fall in price.  Stability is questioned in the stock but coming weeks will tell.
+Answer: ",2,{positive}<|endoftext|>,0
+47,EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany
+Answer: ",2,{positive}<|endoftext|>,0
+48,$GLD http://stks.co/44ow On closer inspection.  Resistance 10 points north at 200d and downward trendline. Chart 2 of 2.,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $GLD http://stks.co/44ow On closer inspection.  Resistance 10 points north at 200d and downward trendline. Chart 2 of 2.
+Answer: ",2,{negative}<|endoftext|>,2
+49,$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !
+Answer: ",0,{positive}<|endoftext|>,0
+50,@mugatushair Now it is time to short $TSLA,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: @mugatushair Now it is time to short $TSLA
+Answer: ",2,{negative}<|endoftext|>,2
+51,"European shares plunge, roiled by BHP and oil; hopes turn to ECB",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: European shares plunge, roiled by BHP and oil; hopes turn to ECB
+Answer: ",2,{negative}<|endoftext|>,2
+52,"$RXII Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $RXII Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.
+Answer: ",2,{negative}<|endoftext|>,2
+53,Legal & General share price: Finance chief to step down,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Legal & General share price: Finance chief to step down
+Answer: ",2,{positive}<|endoftext|>,0
+54,Valeant Said to Name New CEO With Pearson Still Hospitalized,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Valeant Said to Name New CEO With Pearson Still Hospitalized
+Answer: ",1,{negative}<|endoftext|>,2
+55,Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Sales boost for new Morrisons chief David Potts as Tesco turnaround stalls
+Answer: ",2,{positive}<|endoftext|>,0
+56,$AWR Standard & Poor's Affirms 'A+' Credit Rating at American States Water Company and Golden State Water Company http://stks.co/f2P94,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AWR Standard & Poor's Affirms 'A+' Credit Rating at American States Water Company and Golden State Water Company http://stks.co/f2P94
+Answer: ",0,{positive}<|endoftext|>,0
+57,"78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: 78 users on Vetr are bearish on Tesla Motors, Inc., indicating a SELL Rating (2 stars) for $TSLA https://t.co/vVpzqCXsNJ
+Answer: ",2,{negative}<|endoftext|>,2
+58,Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Is #Facebook's user engagement falling? https://t.co/tqMMt7N16X $FB https://t.co/sedqRWgdkt
+Answer: ",2,{negative}<|endoftext|>,2
+59,"BHP Billiton posts big loss, slashes dividend",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: BHP Billiton posts big loss, slashes dividend
+Answer: ",2,{negative}<|endoftext|>,2
+60,Petrofac share price rises despite ÃÂ£30m costs on North Sea project,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Petrofac share price rises despite ÃÂ£30m costs on North Sea project
+Answer: ",1,{positive}<|endoftext|>,0
+61,U.S. Debt Lures Schroders as ECB Depresses Rates,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: U.S. Debt Lures Schroders as ECB Depresses Rates
+Answer: ",1,{positive}<|endoftext|>,0
+62,"$YHOO fishy action. New party interested (DailyMail) bounce & retreats. Not short by any means, but action questions big up move. Thoughts?",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $YHOO fishy action. New party interested (DailyMail) bounce & retreats. Not short by any means, but action questions big up move. Thoughts?
+Answer: ",1,{positive}<|endoftext|>,0
+63,$V A potential bearish shark pattern if point B $226 to be taken out. http://stks.co/i0GGH,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $V A potential bearish shark pattern if point B $226 to be taken out. http://stks.co/i0GGH
+Answer: ",2,{negative}<|endoftext|>,2
+64,UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach
+Answer: ",0,{negative}<|endoftext|>,2
+65,RT @bman1 $LNG looks primed also $EGHT poised to run too...,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: RT @bman1 $LNG looks primed also $EGHT poised to run too...
+Answer: ",0,{positive}<|endoftext|>,0
+66,New Credit Suisse boss faces stiff challenge in Asia,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: New Credit Suisse boss faces stiff challenge in Asia
+Answer: ",2,{negative}<|endoftext|>,2
+67,$PRLB hanging tough in down market due to analyst upgrades last week. Up almost 3%.,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $PRLB hanging tough in down market due to analyst upgrades last week. Up almost 3%.
+Answer: ",0,{positive}<|endoftext|>,0
+68,Royal Mail turnaround proving expensive in tough UK market,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Royal Mail turnaround proving expensive in tough UK market
+Answer: ",1,{negative}<|endoftext|>,2
+69,"Royal Mail, Johnson Matthey lead FTSE lower",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Royal Mail, Johnson Matthey lead FTSE lower
+Answer: ",2,{negative}<|endoftext|>,2
+70,Coke dividend - 3%. Google dividend - 0%. For passive income Coke takes it. $GOOG $KO https://t.co/QBsoWjxOST,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Coke dividend - 3%. Google dividend - 0%. For passive income Coke takes it. $GOOG $KO https://t.co/QBsoWjxOST
+Answer: ",1,{positive}<|endoftext|>,0
+71,$DMND green and moving,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $DMND green and moving
+Answer: ",0,{positive}<|endoftext|>,0
+72,$REN bottoming out again.. Good time to buy,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $REN bottoming out again.. Good time to buy
+Answer: ",0,{positive}<|endoftext|>,0
+73,Breakingviews: IAG can pay more for Aer Lingus,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Breakingviews: IAG can pay more for Aer Lingus
+Answer: ",0,{positive}<|endoftext|>,0
+74,"Whats up with $LULU?  Numbers looked good, not great, but good.  I think conference call will instill confidence.",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Whats up with $LULU?  Numbers looked good, not great, but good.  I think conference call will instill confidence.
+Answer: ",1,{positive}<|endoftext|>,0
+75,$BBRY hearing rumours of a major joint venture announcement.,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $BBRY hearing rumours of a major joint venture announcement.
+Answer: ",0,{positive}<|endoftext|>,0
+76,$PCLN runs into the 50sma on the acquisition news,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $PCLN runs into the 50sma on the acquisition news
+Answer: ",0,{positive}<|endoftext|>,0
+77,$PAY 2nd time test of the 21.20-30 b/o zone.  Still not breaking out.  Moved my stop up to 20.80.,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $PAY 2nd time test of the 21.20-30 b/o zone.  Still not breaking out.  Moved my stop up to 20.80.
+Answer: ",1,{negative}<|endoftext|>,2
+78,$CTRP breaking out https://t.co/Z2je3rTKch,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $CTRP breaking out https://t.co/Z2je3rTKch
+Answer: ",0,{positive}<|endoftext|>,0
+79,Do it for me' trend underpins UK sales growth at Kingfisher,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Do it for me' trend underpins UK sales growth at Kingfisher
+Answer: ",0,{positive}<|endoftext|>,0
+80,CompaniesHoward Davies appointment as RBS director delayed,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: CompaniesHoward Davies appointment as RBS director delayed
+Answer: ",1,{negative}<|endoftext|>,2
+81,Starbucks shares down as much as ~4.2% $SBUX https://t.co/JlgrprR54k,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Starbucks shares down as much as ~4.2% $SBUX https://t.co/JlgrprR54k
+Answer: ",2,{negative}<|endoftext|>,2
+82,volatility squeeze in $AAPL. I hope it gets resolved to the upside,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: volatility squeeze in $AAPL. I hope it gets resolved to the upside
+Answer: ",1,{positive}<|endoftext|>,0
+83,"$TYC just about to break out to new highs, lots of technicals looking great right now.",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TYC just about to break out to new highs, lots of technicals looking great right now.
+Answer: ",0,{positive}<|endoftext|>,0
+84,"$SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $SLV POS, been saying it for 2 years. Going lower. Forget about it or go short.
+Answer: ",2,{negative}<|endoftext|>,2
+85,"$RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $RIG whos ever pushing this is crazy, get ready for suspended dividend (turning into growth stock) blow out earnings, and major buyback, lol
+Answer: ",1,{positive}<|endoftext|>,0
+86,"$AGN and $PYPL under pressure along with the market, however there were bullish options trades in both this morning https://t.co/9xG5W8nONT",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AGN and $PYPL under pressure along with the market, however there were bullish options trades in both this morning https://t.co/9xG5W8nONT
+Answer: ",1,{positive}<|endoftext|>,0
+87,Rio Tinto CEO says iron ore market at equilibrium,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Rio Tinto CEO says iron ore market at equilibrium
+Answer: ",1,{positive}<|endoftext|>,0
+88,Sainsbury CFO Rogers to Replace Home Retail CEO Walden,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Sainsbury CFO Rogers to Replace Home Retail CEO Walden
+Answer: ",1,{positive}<|endoftext|>,0
+89,Deutsche Bank cuts $SBUX,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Deutsche Bank cuts $SBUX
+Answer: ",2,{negative}<|endoftext|>,2
+90,RBS Pays $1.7 Billion to Scrap U.K. Treasury's Dividend Rights,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: RBS Pays $1.7 Billion to Scrap U.K. Treasury's Dividend Rights
+Answer: ",1,{negative}<|endoftext|>,2
+91,Johnson Matthey profit falls but dividend rises,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Johnson Matthey profit falls but dividend rises
+Answer: ",1,{negative}<|endoftext|>,2
+92,UPDATE 1-Engineering firm Smiths Group confirms CEO appointment,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: UPDATE 1-Engineering firm Smiths Group confirms CEO appointment
+Answer: ",1,{positive}<|endoftext|>,0
+93,Insurer Old Mutual picks Standard Bank's Hemphill as new CEO,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Insurer Old Mutual picks Standard Bank's Hemphill as new CEO
+Answer: ",1,{positive}<|endoftext|>,0
+94,"$TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TSLA Recalls 2,700 Model X Vehicles; Shares Volatile https://t.co/tcKqZnMIqX #TSLA #tech #stockmarket https://t.co/FeMhJtAmQj
+Answer: ",2,{negative}<|endoftext|>,2
+95,"$GILD Sandbagged the guidance so the can use that last 3 billion up.  CC was cautiously optimistic, wait til Next ER for confirmation",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $GILD Sandbagged the guidance so the can use that last 3 billion up.  CC was cautiously optimistic, wait til Next ER for confirmation
+Answer: ",1,{positive}<|endoftext|>,0
+96,Is It Worth Investing In Tesco PLC And Prudential plc Now?,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Is It Worth Investing In Tesco PLC And Prudential plc Now?
+Answer: ",0,{positive}<|endoftext|>,0
+97,Sanofi poaches AstraZeneca scientist as new research head,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Sanofi poaches AstraZeneca scientist as new research head
+Answer: ",1,{positive}<|endoftext|>,0
+98,RSA Insurance Hires Towergate's Egan as Chief Financial Officer,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: RSA Insurance Hires Towergate's Egan as Chief Financial Officer
+Answer: ",1,{positive}<|endoftext|>,0
+99,$SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $SPY extreme win today - 2 cents above 2009  low on 10-year and $SPY up 2 percent - life is a bowl of cherries - great short setting up $$
+Answer: ",2,{positive}<|endoftext|>,0
+100,"METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally
+Answer: ",0,{positive}<|endoftext|>,0
+101,GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: GlaxoSmithKline share price slips as FDA okays asthma therapy only for adults
+Answer: ",2,{negative}<|endoftext|>,2
+102,$AMZN Going thru the roof needs a sell!,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AMZN Going thru the roof needs a sell!
+Answer: ",0,{negative}<|endoftext|>,2
+103,"Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...
+Answer: ",2,{negative}<|endoftext|>,2
+104,$aapl key is to breakout above 460 on solid volume or else it's a no trade for now,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $aapl key is to breakout above 460 on solid volume or else it's a no trade for now
+Answer: ",0,{positive}<|endoftext|>,0
+105,Watch these bancos.they're holding up relatively well compared to the broad market $XLF $BAC $GS $C <--large C buying in $BAC in backburner,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Watch these bancos.they're holding up relatively well compared to the broad market $XLF $BAC $GS $C <--large C buying in $BAC in backburner
+Answer: ",0,{positive}<|endoftext|>,0
+106,British American Tobacco first-half sales hurt by currency moves,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: British American Tobacco first-half sales hurt by currency moves
+Answer: ",2,{negative}<|endoftext|>,2
+107,"Went long on this $COG, will see 70's again me thinks",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Went long on this $COG, will see 70's again me thinks
+Answer: ",0,{positive}<|endoftext|>,0
+108,"$SSYS just re-tested lows . Should rise steadily from here. It hit $81 just 21 trading days ago, and $130.86 on Sept 18. It'll do it again.",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $SSYS just re-tested lows . Should rise steadily from here. It hit $81 just 21 trading days ago, and $130.86 on Sept 18. It'll do it again.
+Answer: ",0,{positive}<|endoftext|>,0
+109,AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US
+Answer: ",0,{positive}<|endoftext|>,0
+110,"FDA panel backs safety updates for AstraZeneca, Takeda drugs",0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: FDA panel backs safety updates for AstraZeneca, Takeda drugs
+Answer: ",0,{positive}<|endoftext|>,0
+111,I am not optimistic about $amzn both fundementals and charts look like poopoo this quarter.,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: I am not optimistic about $amzn both fundementals and charts look like poopoo this quarter.
+Answer: ",2,{negative}<|endoftext|>,2
+112,CompaniesDiageo stays neutral on India boardroom turmoil,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: CompaniesDiageo stays neutral on India boardroom turmoil
+Answer: ",1,{neutral}<|endoftext|>,1
+113,$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3
+Answer: ",0,{positive}<|endoftext|>,0
+114,$TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TRIP maintains Neutral rating at JP Morgan- PT cut $61 from $66
+Answer: ",1,{negative}<|endoftext|>,2
+115,US sanctions put Gazprom-Shell alliance plans in jeopardy,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: US sanctions put Gazprom-Shell alliance plans in jeopardy
+Answer: ",2,{negative}<|endoftext|>,2
+116,"$AAPL AAPL finally breaking under the 49 M.A.. With no buybacks this week, look for AAPL to test the 120 support area.",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AAPL AAPL finally breaking under the 49 M.A.. With no buybacks this week, look for AAPL to test the 120 support area.
+Answer: ",2,{positive}<|endoftext|>,0
+117,$AMZN new HOD with conviction keeping $570 on watch for Resistance.,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AMZN new HOD with conviction keeping $570 on watch for Resistance.
+Answer: ",0,{positive}<|endoftext|>,0
+118,$BABA may take a few days wks months watch what happened to $FB $TWTR after they IPO. mrkt needs to washout. to hunt well need 2 wait stalk.,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $BABA may take a few days wks months watch what happened to $FB $TWTR after they IPO. mrkt needs to washout. to hunt well need 2 wait stalk.
+Answer: ",1,{negative}<|endoftext|>,2
+119,"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?
+Answer: ",1,{positive}<|endoftext|>,0
+120,The Boeing Company (NYSE:BA) Bearish Trader bets $550K that Stock Will Sell Off 9.79% by July Expiry $BA http://stks.co/tCSE,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: The Boeing Company (NYSE:BA) Bearish Trader bets $550K that Stock Will Sell Off 9.79% by July Expiry $BA http://stks.co/tCSE
+Answer: ",2,{negative}<|endoftext|>,2
+121,$TSLA weakest in todays DT watchlist,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TSLA weakest in todays DT watchlist
+Answer: ",2,-1<|endoftext|><|endoftext|>,1
+122,Should You Follow Berkshire Hathaway Into Apple Stock?,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Should You Follow Berkshire Hathaway Into Apple Stock?
+Answer: ",1,{positive}<|endoftext|>,0
+123,$tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $tsla X recall not a big deal... the problem is now they will have an excuse to guide way way lower...
+Answer: ",1,{negative}<|endoftext|>,2
+124,Tesco share price steady as analysts weigh in on results,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Tesco share price steady as analysts weigh in on results
+Answer: ",1,{positive}<|endoftext|>,0
+125,$tsla bad day to short,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $tsla bad day to short
+Answer: ",0,{negative}<|endoftext|>,2
+126,Market Report: Eight-day rally ends for FTSE 100 and Standard Chartered,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Market Report: Eight-day rally ends for FTSE 100 and Standard Chartered
+Answer: ",1,{positive}<|endoftext|>,0
+127,"UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins
+Answer: ",1,{positive}<|endoftext|>,0
+128,$ELN longs...congrats...another HOD,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $ELN longs...congrats...another HOD
+Answer: ",0,{positive}<|endoftext|>,0
+129,Glencore blames rivals for creating metals glut,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Glencore blames rivals for creating metals glut
+Answer: ",2,{negative}<|endoftext|>,2
+130,Barclays poised to replace Sir Mike Rake as he heads for exit,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Barclays poised to replace Sir Mike Rake as he heads for exit
+Answer: ",1,{positive}<|endoftext|>,0
+131,$AAPL Action into the close indicates that $AAPL probably hit a near term high.  Momentum slowing after a huge run.,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AAPL Action into the close indicates that $AAPL probably hit a near term high.  Momentum slowing after a huge run.
+Answer: ",0,{positive}<|endoftext|>,0
+132,BG Group appoints new CEO one month early,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: BG Group appoints new CEO one month early
+Answer: ",1,{positive}<|endoftext|>,0
+133,$mako hanging in well today. still in a basing pattern. have eyes on it,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $mako hanging in well today. still in a basing pattern. have eyes on it
+Answer: ",0,{positive}<|endoftext|>,0
+134,"$AAPL AAPL: Gundlach Slams iPad mini, Sees Downside to $425. http://stks.co/bDqV",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AAPL AAPL: Gundlach Slams iPad mini, Sees Downside to $425. http://stks.co/bDqV
+Answer: ",2,{negative}<|endoftext|>,2
+135,Shire to buy NPS for $5.2 billion to boost rare disease drugs,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Shire to buy NPS for $5.2 billion to boost rare disease drugs
+Answer: ",0,{positive}<|endoftext|>,0
+136,$FB Dax says bye bye 2013 - finished a great yr w 28% plus!,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $FB Dax says bye bye 2013 - finished a great yr w 28% plus!
+Answer: ",0,{positive}<|endoftext|>,0
+137,$TNH Looks like an explosive setup if it can break the 20EMA and 105 level http://stks.co/b1SVH,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $TNH Looks like an explosive setup if it can break the 20EMA and 105 level http://stks.co/b1SVH
+Answer: ",0,{positive}<|endoftext|>,0
+138,$FB SHIFTING ON THE 15 MINUTE HERE - SUSPECT TO TAKE HIGHS,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $FB SHIFTING ON THE 15 MINUTE HERE - SUSPECT TO TAKE HIGHS
+Answer: ",0,{positive}<|endoftext|>,0
+139,Arm slammed by handset sales outlook,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Arm slammed by handset sales outlook
+Answer: ",2,{negative}<|endoftext|>,2
+140,"$FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5",2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $FAST $GWW - daily sales slowing again, pretty timely coincident indicator https://t.co/m6BKHBkzK5
+Answer: ",2,{negative}<|endoftext|>,2
+141,FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment,0,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment
+Answer: ",0,{positive}<|endoftext|>,0
+142,energy still failing to close above the 10D MA.  continues to stand out weak $XLE,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: energy still failing to close above the 10D MA.  continues to stand out weak $XLE
+Answer: ",2,-1<|endoftext|><|endoftext|>,1
+143,AstraZeneca's patent on asthma drug invalidated by US court,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: AstraZeneca's patent on asthma drug invalidated by US court
+Answer: ",2,{positive}<|endoftext|>,0
+144,$PRGN A bottom right here?,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $PRGN A bottom right here?
+Answer: ",1,{positive}<|endoftext|>,0
+145,Intertek swings to ÃÂ£347 mln loss on oil's slump,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Intertek swings to ÃÂ£347 mln loss on oil's slump
+Answer: ",2,{negative}<|endoftext|>,2
+146,RT @jan $ARNA Don't think buyout rumor strong enough too be driving this up just yet...when it is this may fly like aapl...// fly how high?,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: RT @jan $ARNA Don't think buyout rumor strong enough too be driving this up just yet...when it is this may fly like aapl...// fly how high?
+Answer: ",1,{positive}<|endoftext|>,0
+147,Barclays appoints JPMorgan's Paul Compton as new COO,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Barclays appoints JPMorgan's Paul Compton as new COO
+Answer: ",1,{positive}<|endoftext|>,0
+148,$AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.,1,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: $AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.
+Answer: ",1,{positive}<|endoftext|>,0
+149,Tullow Oil Suspends Dividend Amid Oil Price Fall,2,What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this news? Please choose an answer from {negative/neutral/positive}.
+Input: Tullow Oil Suspends Dividend Amid Oil Price Fall
+Answer: ",2,{negative}<|endoftext|>,2
