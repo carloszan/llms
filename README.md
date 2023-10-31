@@ -4,6 +4,8 @@ This is the first step of my master's degree. The objective is to comprehensivel
 
 # LLMs
 
-| Falcon-7B | BERT-SentimentAnalysis | Llama2-7b-FinGpt   |
-| --------- | ---------------------- | ------------------ |
-| 0.54      | 0.4266666666666667     | 0.8733333333333333 |
+Accuracy metric
+
+| Falcon-7b | BERT-SentimentAnalysis | Llama2-7b-FinGpt   | Distilbert-FineTunedSST-2 |
+| --------- | ---------------------- | ------------------ | ------------------------- |
+| 0.54      | 0.4266666666666667     | 0.8733333333333333 | 0.63                      |
