@@ -1,0 +1,452 @@
+,input,output,instruction,context,target,out_text,new_out
+6,Fuck this economy. I hate aig and their non loan given asses.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Fuck this economy. I hate aig and their non loan given asses.
+Answer: ",0,{negative}<|endoftext|>,0
+11,"@Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan, but they want to destroy conservatism",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan, but they want to destroy conservatism
+Answer: ",0,{negative}<|endoftext|>,0
+14,"dear nike, stop with the flywire. that shit is a waste of science. and ugly. love, @vincentx24x",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: dear nike, stop with the flywire. that shit is a waste of science. and ugly. love, @vincentx24x
+Answer: ",0,{negative}<|endoftext|>,0
+16,I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.
+Answer: ",0,{negative}<|endoftext|>,0
+18,"@ludajuice Lebron is a Beast, but I'm still cheering 4 the A..til the end.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @ludajuice Lebron is a Beast, but I'm still cheering 4 the A..til the end.
+Answer: ",0,{positive}<|endoftext|>,4
+33,Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.
+Answer: ",0,{negative}<|endoftext|>,0
+34,US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders
+Answer: ",0,{negative}<|endoftext|>,0
+35,omg so bored &amp; my tattoooos are so itchy!!  help! aha =),0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: omg so bored &amp; my tattoooos are so itchy!!  help! aha =)
+Answer: ",0,{negative}<|endoftext|>,0
+36,I'm itchy and miserable!,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I'm itchy and miserable!
+Answer: ",0,{negative}<|endoftext|>,0
+37,"@sekseemess no. I'm not itchy for now. Maybe later, lol.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @sekseemess no. I'm not itchy for now. Maybe later, lol.
+Answer: ",0,{positive}<|endoftext|>,4
+42,cant sleep... my tooth is aching.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: cant sleep... my tooth is aching.
+Answer: ",0,{negative}<|endoftext|>,0
+43,"Blah, blah, blah same old same old. No plans today, going back to sleep I guess.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Blah, blah, blah same old same old. No plans today, going back to sleep I guess.
+Answer: ",0,{negative}<|endoftext|>,0
+44,"glad i didnt do Bay to Breakers today, it's 1000 freaking degrees in San Francisco wtf",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: glad i didnt do Bay to Breakers today, it's 1000 freaking degrees in San Francisco wtf
+Answer: ",0,{negative}<|endoftext|>,0
+48,?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: ?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg
+Answer: ",0,{negative}<|endoftext|>,0
+49,started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?
+Answer: ",0,{negative}<|endoftext|>,0
+50,ShaunWoo hate'n on AiG,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: ShaunWoo hate'n on AiG
+Answer: ",0,{negative}<|endoftext|>,0
+54,annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+59,omg. The commercials alone on ESPN are going to drive me nuts.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: omg. The commercials alone on ESPN are going to drive me nuts.
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+64,@morind45 Because the twitter api is slow and most client's aren't good.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @morind45 Because the twitter api is slow and most client's aren't good.
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+65,yahoo answers can be a butt sometimes,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: yahoo answers can be a butt sometimes
+Answer: ",0,"-1
+The sentiment of this twitter is negative.<|endoftext|>",0
+72,RT @SmartChickPDX: Was just told that Nike layoffs started today :-(,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: RT @SmartChickPDX: Was just told that Nike layoffs started today :-(
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+78,needs someone to explain lambda calculus to him! :(,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: needs someone to explain lambda calculus to him! :(
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+79,Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+81,"@legalgeekery Yeahhhhhhhhh, I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @legalgeekery Yeahhhhhhhhh, I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.
+Answer: ",0,{negative}<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>,0
+86,Damn you North Korea. http://bit.ly/KtMeQ,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Damn you North Korea. http://bit.ly/KtMeQ
+Answer: ",0,{negative}<|endoftext|>,0
+87,Can we just go ahead and blow North Korea off the map already?,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Can we just go ahead and blow North Korea off the map already?
+Answer: ",0,{negative}<|endoftext|>,0
+88,"North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl
+Answer: ",0,{negative}<|endoftext|>,0
+89,Why the hell is Pelosi in freakin China? and on whose dime?,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Why the hell is Pelosi in freakin China? and on whose dime?
+Answer: ",0,{negative}<|endoftext|>,0
+90,"Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!
+Answer: ",0,{negative}<|endoftext|>,0
+91,insects have infected my spinach plant :(,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: insects have infected my spinach plant :(
+Answer: ",0,{negative}<|endoftext|>,0
+92,wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects
+Answer: ",0,{negative}<|endoftext|>,0
+93,"just got back from church, and I totally hate insects.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: just got back from church, and I totally hate insects.
+Answer: ",0,{negative}<|endoftext|>,0
+94,Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it
+Answer: ",0,{negative}<|endoftext|>,0
+96,History exam studying ugh,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: History exam studying ugh
+Answer: ",0,{negative}<|endoftext|>,0
+97,"I hate revision, it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I hate revision, it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...
+Answer: ",0,{negative}<|endoftext|>,0
+98,"Higher physics exam tommorow, not lookin forward to it much :(",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Higher physics exam tommorow, not lookin forward to it much :(
+Answer: ",0,{negative}<|endoftext|>,0
+99,"It's a bank holiday, yet I'm only out of work now. Exam season sucks:(",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: It's a bank holiday, yet I'm only out of work now. Exam season sucks:(
+Answer: ",0,{negative}<|endoftext|>,0
+100,Cheney and Bush are the real culprits - http://fwix.com/article/939496,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Cheney and Bush are the real culprits - http://fwix.com/article/939496
+Answer: ",0,{negative}<|endoftext|>,0
+101,Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ
+Answer: ",0,{negative}<|endoftext|>,0
+102,"Dick Cheney's dishonest speech about torture, terror, and Obama. -Fred Kaplan Slate. http://is.gd/DiHg",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Dick Cheney's dishonest speech about torture, terror, and Obama. -Fred Kaplan Slate. http://is.gd/DiHg
+Answer: ",0,{negative}<|endoftext|>,0
+103,"""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now, on the radio)",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: ""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now, on the radio)
+Answer: ",0,{negative}<|endoftext|>,0
+104,is Twitter's connections API broken? Some tweets didn't make it to Twitter...,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: is Twitter's connections API broken? Some tweets didn't make it to Twitter...
+Answer: ",0,{neutral}<|endoftext|>,2
+105,"i srsly hate the stupid twitter API timeout thing, soooo annoying!!!!! :(",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: i srsly hate the stupid twitter API timeout thing, soooo annoying!!!!! :(
+Answer: ",0,{negative}<|endoftext|>,0
+123,VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!
+Answer: ",0,{negative}<|endoftext|>,0
+136,Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL
+Answer: ",0,{negative}<|endoftext|>,0
+138,It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable
+Answer: ",0,{negative}<|endoftext|>,0
+139,Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.
+Answer: ",0,{negative}<|endoftext|>,0
+140,@jdreiss oh yes but if GM dies it will only be worth more boo hahaha,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @jdreiss oh yes but if GM dies it will only be worth more boo hahaha
+Answer: ",0,{negative}<|endoftext|>,0
+141,Time Warner cable is down again 3rd time since Memorial Day bummer!,0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Time Warner cable is down again 3rd time since Memorial Day bummer!
+Answer: ",0,{negative}<|endoftext|>,0
+142,"I would rather pay reasonable yearly taxes for ""free"" fast internet, than get gouged by Time Warner for a slow connection.",0,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I would rather pay reasonable yearly taxes for ""free"" fast internet, than get gouged by Time Warner for a slow connection.
+Answer: ",0,{positive}<|endoftext|>,4
+10,Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM
+Answer: ",2,{positive}<|endoftext|>,4
+30,need suggestions for a good IR filter for my canon 40D ... got some? pls DM,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: need suggestions for a good IR filter for my canon 40D ... got some? pls DM
+Answer: ",2,{positive}<|endoftext|>,4
+31,@surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv
+Answer: ",2,{positive}<|endoftext|>,4
+45,is in San Francisco at Bay to Breakers.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: is in San Francisco at Bay to Breakers.
+Answer: ",2,{positive}<|endoftext|>,4
+46,just landed at San Francisco,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: just landed at San Francisco
+Answer: ",2,{positive}<|endoftext|>,4
+47,San Francisco today.  Any suggestions?,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: San Francisco today.  Any suggestions?
+Answer: ",2,{positive}<|endoftext|>,4
+52,On my way to see Star Trek @ The Esquire.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: On my way to see Star Trek @ The Esquire.
+Answer: ",2,{positive}<|endoftext|>,4
+53,Going to see star trek soon with my dad.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Going to see star trek soon with my dad.
+Answer: ",2,{positive}<|endoftext|>,4
+55,Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50
+Answer: ",2,{positive}<|endoftext|>,4
+61,playing with cURL and the Twitter API,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: playing with cURL and the Twitter API
+Answer: ",2,{positive}<|endoftext|>,4
+63,playing with Java and the Twitter API,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: playing with Java and the Twitter API
+Answer: ",2,{positive}<|endoftext|>,4
+69,"Nike owns NBA Playoffs ads w/ LeBron, Kobe, Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Nike owns NBA Playoffs ads w/ LeBron, Kobe, Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding
+Answer: ",2,{positive}<|endoftext|>,4
+70,"'Next time, I'll call myself Nike'",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: 'Next time, I'll call myself Nike'
+Answer: ",2,{positive}<|endoftext|>,4
+71,New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT
+Answer: ",2,{positive}<|endoftext|>,4
+75,"giving weka an app engine interface, using the bird strike data for the tests, the logo is a given.",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: giving weka an app engine interface, using the bird strike data for the tests, the logo is a given.
+Answer: ",2,{positive}<|endoftext|>,4
+76,"Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread, Brand New Canon EOS 5.. http://u.mavrev.com/5a3t",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread, Brand New Canon EOS 5.. http://u.mavrev.com/5a3t
+Answer: ",2,{positive}<|endoftext|>,4
+83,"NVIDIA Names Stanford's Bill Dally Chief Scientist, VP Of Research http://bit.ly/Fvvg9",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: NVIDIA Names Stanford's Bill Dally Chief Scientist, VP Of Research http://bit.ly/Fvvg9
+Answer: ",2,{positive}<|endoftext|>,4
+84,New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo
+Answer: ",2,{positive}<|endoftext|>,4
+107,jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631
+Answer: ",2,{positive}<|endoftext|>,4
+117,At GWT fireside chat @googleio,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: At GWT fireside chat @googleio
+Answer: ",2,{positive}<|endoftext|>,4
+120,"Hi there, does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Hi there, does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8
+Answer: ",2,{positive}<|endoftext|>,4
+122,"Here's A case study on how to use viral marketing to add over 10,000 people to your list http://snipr.com/i50oz",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Here's A case study on how to use viral marketing to add over 10,000 people to your list http://snipr.com/i50oz
+Answer: ",2,{positive}<|endoftext|>,4
+126,going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin
+Answer: ",2,{negative}<|endoftext|>,0
+128,Just saw the new Night at the Museum movie...it was...okay...lol 7\10,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Just saw the new Night at the Museum movie...it was...okay...lol 7\10
+Answer: ",2,{neutral}<|endoftext|>,2
+129,Going to see night at the museum 2 with tall boy,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Going to see night at the museum 2 with tall boy
+Answer: ",2,{positive}<|endoftext|>,4
+134,I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.
+Answer: ",2,{neutral}<|endoftext|>,2
+135,Taking Katie to see Night at the Museum.  (she picked it),2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Taking Katie to see Night at the Museum.  (she picked it)
+Answer: ",2,{positive}<|endoftext|>,4
+137,GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv
+Answer: ",2,{positive}<|endoftext|>,4
+153,Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk),2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk)
+Answer: ",2,{negative}<|endoftext|>,0
+155,"Rocawear Heads to China, Building 300 Stores  - http://tinyurl.com/nofet3",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Rocawear Heads to China, Building 300 Stores  - http://tinyurl.com/nofet3
+Answer: ",2,{positive}<|endoftext|>,4
+156,"Climate focus turns to Beijing: The United Nations, the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Climate focus turns to Beijing: The United Nations, the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n
+Answer: ",2,{negative}<|endoftext|>,0
+157,myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba
+Answer: ",2,{positive}<|endoftext|>,4
+158,"Three China aerospace giants develop Tianjin Binhai  New Area,  22.9 B yuan invested   http://bit.ly/mMiDv",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Three China aerospace giants develop Tianjin Binhai  New Area,  22.9 B yuan invested   http://bit.ly/mMiDv
+Answer: ",2,{positive}<|endoftext|>,4
+159,http://xi.gs/04FO GM CEO: China will continue to be key partner,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: http://xi.gs/04FO GM CEO: China will continue to be key partner
+Answer: ",2,{positive}<|endoftext|>,4
+160,RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu
+Answer: ",2,{positive}<|endoftext|>,4
+163,Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?
+Answer: ",2,{negative}<|endoftext|>,0
+166,@kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml
+Answer: ",2,{negative}<|endoftext|>,0
+171,NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx
+Answer: ",2,{positive}<|endoftext|>,4
+172,just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR
+Answer: ",2,{positive}<|endoftext|>,4
+173,Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.
+Answer: ",2,{positive}<|endoftext|>,4
+174,Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796
+Answer: ",2,{positive}<|endoftext|>,4
+175,waiting in line at safeway.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: waiting in line at safeway.
+Answer: ",2,{negative}<|endoftext|>,0
+177,Did not realize there is a gym above Safeway!,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Did not realize there is a gym above Safeway!
+Answer: ",2,{positive}<|endoftext|>,4
+178,"@XPhile1908 I have three words for you: ""Safeway dot com""",2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @XPhile1908 I have three words for you: ""Safeway dot com""
+Answer: ",2,{negative}<|endoftext|>,0
+180,Bout to hit safeway I gotta eat,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Bout to hit safeway I gotta eat
+Answer: ",2,{negative}<|endoftext|>,0
+181,Jake's going to safeway!,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Jake's going to safeway!
+Answer: ",2,{positive}<|endoftext|>,4
+182,Found a safeway. Picking up a few staples.,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Found a safeway. Picking up a few staples.
+Answer: ",2,{positive}<|endoftext|>,4
+183,Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w
+Answer: ",2,{positive}<|endoftext|>,4
+186,Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O
+Answer: ",2,{positive}<|endoftext|>,4
+187,Is Eating and Watching Movies....,2,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Is Eating and Watching Movies....
+Answer: ",2,{positive}<|endoftext|>,4
+0,"@stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool, but the 2 is fantastic in its own right.",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool, but the 2 is fantastic in its own right.
+Answer: ",4,{positive}<|endoftext|>,4
+1,Reading my kindle2...  Love it... Lee childs is good read.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Reading my kindle2...  Love it... Lee childs is good read.
+Answer: ",4,{positive}<|endoftext|>,4
+2,"Ok, first assesment of the #kindle2 ...it fucking rocks!!!",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Ok, first assesment of the #kindle2 ...it fucking rocks!!!
+Answer: ",4,{positive}<|endoftext|>,4
+3,@kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :)
+Answer: ",4,{positive}<|endoftext|>,4
+4,@mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :)
+Answer: ",4,{positive}<|endoftext|>,4
+5,@richardebaker no. it is too big. I'm quite happy with the Kindle2.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @richardebaker no. it is too big. I'm quite happy with the Kindle2.
+Answer: ",4,{positive}<|endoftext|>,4
+7,Jquery is my new best friend.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Jquery is my new best friend.
+Answer: ",4,{positive}<|endoftext|>,4
+8,Loves twitter,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Loves twitter
+Answer: ",4,{positive}<|endoftext|>,4
+9,how can you not love Obama? he makes jokes about himself.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: how can you not love Obama? he makes jokes about himself.
+Answer: ",4,{positive}<|endoftext|>,4
+12,"House Correspondents dinner was last night whoopi, barbara &amp; sherri went, Obama got a standing ovation",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: House Correspondents dinner was last night whoopi, barbara &amp; sherri went, Obama got a standing ovation
+Answer: ",4,{positive}<|endoftext|>,4
+13,Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!
+Answer: ",4,{positive}<|endoftext|>,4
+15,"#lebron best athlete of our generation, if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: #lebron best athlete of our generation, if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2
+Answer: ",4,{positive}<|endoftext|>,4
+17,i love lebron. http://bit.ly/PdHur,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: i love lebron. http://bit.ly/PdHur
+Answer: ",4,{positive}<|endoftext|>,4
+19,@Pmillzz lebron IS THE BOSS,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @Pmillzz lebron IS THE BOSS
+Answer: ",4,{positive}<|endoftext|>,4
+20,"@sketchbug Lebron is a hometown hero to me, lol I love the Lakers but let's go Cavs, lol",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @sketchbug Lebron is a hometown hero to me, lol I love the Lakers but let's go Cavs, lol
+Answer: ",4,{positive}<|endoftext|>,4
+21,lebron and zydrunas are such an awesome duo,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: lebron and zydrunas are such an awesome duo
+Answer: ",4,{positive}<|endoftext|>,4
+22,@wordwhizkid Lebron is a beast... nobody in the NBA comes even close.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @wordwhizkid Lebron is a beast... nobody in the NBA comes even close.
+Answer: ",4,{positive}<|endoftext|>,4
+23,downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.
+Answer: ",4,{positive}<|endoftext|>,4
+24,"good news, just had a call from the Visa office, saying everything is fine.....what a relief! I am sick of scams out there! Stealing!",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: good news, just had a call from the Visa office, saying everything is fine.....what a relief! I am sick of scams out there! Stealing!
+Answer: ",4,{positive}<|endoftext|>,4
+25,http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson)
+Answer: ",4,{positive}<|endoftext|>,4
+26,In montreal for a long weekend of R&amp;R. Much needed.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: In montreal for a long weekend of R&amp;R. Much needed.
+Answer: ",4,{positive}<|endoftext|>,4
+27,Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv
+Answer: ",4,{positive}<|endoftext|>,4
+28,[#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: [#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP
+Answer: ",4,{positive}<|endoftext|>,4
+29,"@SoChi2 I current use the Nikon D90 and love it, but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @SoChi2 I current use the Nikon D90 and love it, but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.
+Answer: ",4,{positive}<|endoftext|>,4
+32,"@phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad, @KimbleT.",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad, @KimbleT.
+Answer: ",4,{positive}<|endoftext|>,4
+38,RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR
+Answer: ",4,{positive}<|endoftext|>,4
+39,"@spinuzzi: Has been a bit crazy, with steep learning curve, but LyX is really good for long docs. For anything shorter, it would be insane.",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @spinuzzi: Has been a bit crazy, with steep learning curve, but LyX is really good for long docs. For anything shorter, it would be insane.
+Answer: ",4,{positive}<|endoftext|>,4
+40,"I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww, he's so amazing. I &lt;3 him so much :)",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww, he's so amazing. I &lt;3 him so much :)
+Answer: ",4,{positive}<|endoftext|>,4
+41,is going to sleep then on a bike ride:],4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: is going to sleep then on a bike ride:]
+Answer: ",4,{positive}<|endoftext|>,4
+51,@YarnThing you will not regret going to see Star Trek. It was AWESOME!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @YarnThing you will not regret going to see Star Trek. It was AWESOME!
+Answer: ",4,{positive}<|endoftext|>,4
+56,Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell
+Answer: ",4,{positive}<|endoftext|>,4
+57,Blink by malcolm gladwell amazing book and The tipping point!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Blink by malcolm gladwell amazing book and The tipping point!
+Answer: ",4,{positive}<|endoftext|>,4
+58,Malcolm Gladwell might be my new man crush,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Malcolm Gladwell might be my new man crush
+Answer: ",4,{positive}<|endoftext|>,4
+60,@robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.
+Answer: ",4,{positive}<|endoftext|>,4
+62,Hello Twitter API ;),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Hello Twitter API ;)
+Answer: ",4,{positive}<|endoftext|>,4
+66,is scrapbooking with Nic =D,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: is scrapbooking with Nic =D
+Answer: ",4,{positive}<|endoftext|>,4
+67,RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR
+Answer: ",4,{positive}<|endoftext|>,4
+68,just changed my default pic to a Nike basketball cause bball is awesome!!!!!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: just changed my default pic to a Nike basketball cause bball is awesome!!!!!
+Answer: ",4,{positive}<|endoftext|>,4
+73,Back when I worked for Nike we had one fav word : JUST DO IT! :),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Back when I worked for Nike we had one fav word : JUST DO IT! :)
+Answer: ",4,{positive}<|endoftext|>,4
+74,"By the way, I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: By the way, I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9
+Answer: ",4,{positive}<|endoftext|>,4
+77,Class... The 50d is supposed to come today :),4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Class... The 50d is supposed to come today :)
+Answer: ",4,{positive}<|endoftext|>,4
+80,SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......
+Answer: ",4,{positive}<|endoftext|>,4
+82,@accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!
+Answer: ",4,{positive}<|endoftext|>,4
+85,@ work til 6pm... lets go lakers!!!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @ work til 6pm... lets go lakers!!!
+Answer: ",4,{positive}<|endoftext|>,4
+95,omgg i ohhdee want mcdonalds damn i wonder if its open lol =],4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: omgg i ohhdee want mcdonalds damn i wonder if its open lol =]
+Answer: ",4,{positive}<|endoftext|>,4
+106,"@psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: @psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too
+Answer: ",4,{positive}<|endoftext|>,4
+108,"Very Interesting Ad from Adobe by Goodby, Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Very Interesting Ad from Adobe by Goodby, Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT
+Answer: ",4,{positive}<|endoftext|>,4
+109,Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!
+Answer: ",4,{positive}<|endoftext|>,4
+110,"RT @designplay Goodby, Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*",4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: RT @designplay Goodby, Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*
+Answer: ",4,{positive}<|endoftext|>,4
+111,The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!,4,What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.,"Instruction: What is the sentiment of this twitter? Please choose an answer from {negative/neutral/positive}.
+Input: The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!
+Answer: ",4,{positive}<|endoftext|>,4

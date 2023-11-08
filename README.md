@@ -6,6 +6,14 @@ This is the first step of my master's degree. The objective is to comprehensivel
 
 Accuracy metric
 
-| Falcon-7b | BERT-SentimentAnalysis | Llama2-7b-FinGpt   | Distilbert-FineTunedSST-2 |
-| --------- | ---------------------- | ------------------ | ------------------------- |
-| 0.54      | 0.4266666666666667     | 0.8733333333333333 | 0.63                      |
+## Financial sentiment analysis:
+
+| Falcon-7b | BERT-SentimentAnalysis | Llama2-7b-FinGpt   |
+| --------- | ---------------------- | ------------------ |
+| 0.54      | 0.4266666666666667     | 0.8733333333333333 |
+
+## General sentiment analysis:
+
+| Falcon-7b          | StableBeluga-7B-finetuned-sentiment-analysis |
+| ------------------ | -------------------------------------------- |
+| 0.6533333333333333 | 0.7333333333333333                           |
